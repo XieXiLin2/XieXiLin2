@@ -28,7 +28,7 @@ Profile Visits from 2023/5/20
 
 **🐱 My GitHub Data** 
 
-> 📦 42 Bytes Used in GitHub's Storage 
+> 📦 58 Bytes Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2023
  > 
@@ -93,5 +93,5 @@ C#                       1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/XieXiLin2/XieXiLin2/main/assets/bar_graph.png)
 
 
- Last Updated on 2023/05/31 14:34:42 UTC
+ Last Updated on 2023/06/01 08:29:19 UTC
 <!--END_SECTION:waka-->
