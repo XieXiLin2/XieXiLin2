@@ -24,37 +24,37 @@ Profile Visits from 2023/5/20
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2042%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 58 Bytes Used in GitHub's Storage 
+> 📦 59 Bytes Used in GitHub's Storage 
  > 
-> 🏆 14 Contributions in the Year 2023
+> 🏆 16 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 1 Public Repository 
+> 📜 2 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+> 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2 commits           ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.00 % 
-🌆 Daytime                1 commits           ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.50 % 
-🌃 Evening                1 commits           ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.50 % 
-🌙 Night                  4 commits           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.00 % 
+🌞 Morning                2 commits           ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.57 % 
+🌆 Daytime                1 commits           ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.29 % 
+🌃 Evening                1 commits           ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.29 % 
+🌙 Night                  3 commits           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.86 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 Tuesday                  0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
-Wednesday                2 commits           ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.00 % 
-Thursday                 1 commits           ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.50 % 
-Friday                   1 commits           ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.50 % 
-Saturday                 4 commits           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   50.00 % 
+Wednesday                2 commits           ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.57 % 
+Thursday                 1 commits           ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.29 % 
+Friday                   0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+Saturday                 4 commits           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.14 % 
 Sunday                   0 commits           ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 ```
 
@@ -93,5 +93,5 @@ C#                       1 repo              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/XieXiLin2/XieXiLin2/main/assets/bar_graph.png)
 
 
- Last Updated on 2023/06/02 08:28:25 UTC
+ Last Updated on 2023/06/03 08:26:32 UTC
 <!--END_SECTION:waka-->
