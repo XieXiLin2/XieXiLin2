@@ -22,13 +22,13 @@ Profile Visits from 2023/5/20
 
 ![XieXiLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=XieXiLin2&count_private=true&show_icons=true)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 85 Bytes Used in GitHub's Storage 
+> 📦 86 Bytes Used in GitHub's Storage 
  > 
 > 🏆 23 Contributions in the Year 2023
  > 
@@ -97,5 +97,5 @@ Kotlin                   1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/XieXiLin2/XieXiLin2/main/assets/bar_graph.png)
 
 
- Last Updated on 2023/06/08 05:25:20 UTC
+ Last Updated on 2023/06/08 06:29:50 UTC
 <!--END_SECTION:waka-->
