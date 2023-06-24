@@ -28,7 +28,7 @@ Profile Visits from 2023/5/20
 
 **🐱 My GitHub Data** 
 
-> 📦 289 Bytes Used in GitHub's Storage 
+> 📦 283 Bytes Used in GitHub's Storage 
  > 
 > 🏆 25 Contributions in the Year 2023
  > 
@@ -98,5 +98,5 @@ Kotlin                   1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/XieXiLin2/XieXiLin2/main/assets/bar_graph.png)
 
 
- Last Updated on 2023/06/24 07:07:20 UTC
+ Last Updated on 2023/06/24 08:09:22 UTC
 <!--END_SECTION:waka-->
