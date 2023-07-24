@@ -22,15 +22,15 @@ Profile Visits from 2023/5/20
 
 ![XieXiLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=XieXiLin2&count_private=true&show_icons=true)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-453%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 658 Bytes Used in GitHub's Storage 
+> 📦 659 Bytes Used in GitHub's Storage 
  > 
-> 🏆 55 Contributions in the Year 2023
+> 🏆 57 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,5 +105,5 @@ Go                       1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/XieXiLin2/XieXiLin2/main/assets/bar_graph.png)
 
 
- Last Updated on 2023/07/24 14:16:35 UTC
+ Last Updated on 2023/07/24 16:22:26 UTC
 <!--END_SECTION:waka-->
