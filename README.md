@@ -1,6 +1,6 @@
 ## Hi there 👋🏻
 
-- 🎓 I’m currently a middle school studnt
+- 🎓 I’m currently a junior high school student
 
 - 📝 I’m currently using Python, Java, C++
 
