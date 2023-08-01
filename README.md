@@ -6,7 +6,7 @@
 
 - 🏠 I’m currently living in Foshan, Guangdong, China
 
-- 📫 How to reach me: [Email](mailto:xiexilin158@qq.com) | [QQ](https://qm.qq.com/cgi-bin/qm/qr?k=bKl4GS7JbpExgmq7jnJYl-teGkHjG4Nu&noverify=0&personal_qrcode_source=4) | [Telegram](https://t.me/@XieXiLin)
+- 📫 How to reach me: [Email](mailto:support@xiexilin.com) | [Telegram](https://t.me/@XieXiLin)
 
 - 🏢 My organizations: Private
 
@@ -21,6 +21,7 @@ Profile Visits from 2023/5/20
 ## My Code Status
 
 ![XieXiLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=XieXiLin2&count_private=true&show_icons=true)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-156%20hrs%2055%20mins-blue)
 
