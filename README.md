@@ -12,6 +12,8 @@
 
 - 🌎 My website: <https://xiexilin.com>
 
+- 😶 Gravatar: `2defd5540f480625cf9d09e5d4c3b7c4`
+
 - 🤝 Support me: [AFDian](https://afdian.net/a/XieXiLin)
 
 Profile Visits from 2023/5/20
