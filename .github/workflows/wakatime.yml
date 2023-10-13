@@ -19,4 +19,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SYMBOL_VERSION: 2
           UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
-          COMMIT_MESSAGE: "🎉 WakaTime README Updated"
+          COMMIT_MESSAGE: "✨ update: WakaTime"
