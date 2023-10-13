@@ -6,7 +6,7 @@
 
 - 🏠 I’m currently living in Foshan, Guangdong, China
 
-- 📫 How to reach me: [Email](mailto:support@xiexilin.com) | [Telegram](https://t.me/@XieXiLin)
+- 📫 How to reach me: [Email](mailto:support@xiexilin.com) | [Telegram](https://t.me/@XieXiLin) | [Join QQ Group](https://qm.qq.com/q/CX1iqS039C)
 
 - 🏢 My organizations: Private
 
