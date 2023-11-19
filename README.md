@@ -1,26 +1,26 @@
 ## Hi there 👋🏻
 
-- 🎓 I’m currently a junior high school student
+- 🎓 I’m currently a senior high school student
 
-- 📝 I’m currently using Python, Java, C++
+<!-- - 📝 I’m currently using -->
 
 - 🏠 I’m currently living in Foshan, Guangdong, China
 
-- 📫 How to reach me: [Email](mailto:support@xiexilin.com) | [Telegram](https://t.me/@XieXiLin) | [Join QQ Group](https://qm.qq.com/q/CX1iqS039C)
+<!-- - 📫 How to reach me: [Email](mailto:support@xiexilin.com)
 
 - 🏢 My organizations: Private
 
-- 🌎 My website: <https://xiexilin.com>
+- 🌎 My website: <https://xiexilin.com> -->
 
 - 😶 Gravatar: `2defd5540f480625cf9d09e5d4c3b7c4`
 
 - ✨ Color: `#0047AA`
 
-- 🤝 Support me: [AFDian](https://afdian.net/a/XieXiLin)
+<!-- - 🤝 Support me: [AFDian](https://afdian.net/a/XieXiLin)
 
 Profile Visits from 2023/5/20
 
-![Visits](https://count.getloli.com/get/@XieXiLin2?theme=gelbooru)
+![Visits](https://count.getloli.com/get/@XieXiLin2?theme=gelbooru) -->
 
 ## My Code Status
 
