@@ -35,7 +35,7 @@ Profile Visits from 2023/5/20
 
 **🐱 My GitHub Data** 
 
-> 📦 3.3 kB Used in GitHub's Storage 
+> 📦 3.4 kB Used in GitHub's Storage 
  > 
 > 🏆 356 Contributions in the Year 2023
  > 
@@ -110,5 +110,5 @@ Java                     2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/XieXiLin2/XieXiLin2/main/assets/bar_graph.png)
 
 
- Last Updated on 2023/11/24 20:18:11 UTC
+ Last Updated on 2023/11/24 22:16:20 UTC
 <!--END_SECTION:waka-->
