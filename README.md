@@ -29,7 +29,7 @@ Profile Visits from 2023/5/20
 ![XieXiLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=XieXiLin2&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2030%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.6%20thousand%20lines%20of%20code-blue)
 
@@ -37,7 +37,7 @@ Profile Visits from 2023/5/20
 
 > 📦 3.6 kB Used in GitHub's Storage 
  > 
-> 🏆 373 Contributions in the Year 2023
+> 🏆 378 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -110,5 +110,5 @@ Java                     2 repos             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/XieXiLin2/XieXiLin2/main/assets/bar_graph.png)
 
 
- Last Updated on 2023/12/02 12:30:36 UTC
+ Last Updated on 2023/12/02 14:15:00 UTC
 <!--END_SECTION:waka-->
