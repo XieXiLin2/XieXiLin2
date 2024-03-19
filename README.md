@@ -26,6 +26,9 @@ Profile Visits from 2023/5/20
 
 ## My Code Status
 
+<details>
+<summary>👉 Click To Expand</summary>
+ 
 ![XieXiLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=XieXiLin2&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
@@ -114,3 +117,4 @@ Jinja                    1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
  Last Updated on 2024/03/19 12:32:04 UTC
 <!--END_SECTION:waka-->
+</details>
