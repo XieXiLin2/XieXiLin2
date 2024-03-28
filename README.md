@@ -36,7 +36,7 @@ Profile Visits from 2023/5/20
 ![XieXiLin's GitHub stats](https://github-readme-stats.vercel.app/api?username=XieXiLin2&count_private=true&show_icons=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-689%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-689%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69.4%20thousand%20lines%20of%20code-blue)
 
@@ -118,6 +118,6 @@ Jinja                    1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/XieXiLin2/XieXiLin2/main/assets/bar_graph.png)
 
 
- Last Updated on 2024/03/28 12:33:17 UTC
+ Last Updated on 2024/03/28 14:18:34 UTC
 <!--END_SECTION:waka-->
 </details>
