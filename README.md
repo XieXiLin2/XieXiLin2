@@ -1,5 +1,3 @@
-__**Locking myself.**__
-
 ## Hi there 👋🏻
 
 - 🎓 I’m currently a senior high school student
