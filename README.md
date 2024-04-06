@@ -1,3 +1,5 @@
+**將於近日內逐步將 Github 賬號私密化，最後進入註銷流程。如您哪天發現我消失了請勿擔心，我只是紫砂了而已。**
+
 ## Hi there 👋🏻
 
 - 🎓 I’m currently a senior high school student
