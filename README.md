@@ -28,6 +28,8 @@ Profile Visits from 2023/5/20
 
 ![Visits](https://count.getloli.com/get/@XieXiLin2?theme=gelbooru)
 
+<!--
+
 ## My Code Status
 
 <details>
@@ -119,3 +121,5 @@ Shell                    2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
  Last Updated on 2024/04/09 08:22:15 UTC
 <!--END_SECTION:waka-->
 </details>
+
+-->
