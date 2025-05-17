@@ -21,6 +21,8 @@
 
 - ✨ Color: `#0047AA`
 
+- 📖 Program Language: None `I don't write code anymore.`
+
 <!-- - 🤝 Support me: [AFDian](https://afdian.net/a/XieXiLin) -->
 
 <!-- Profile Visits from 2023/5/20
